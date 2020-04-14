@@ -1,6 +1,6 @@
 # README
 
-This repository contains commonly used code by CO-OPS data users (https://tidesandcurrents.noaa.gov), including retrieving data from the API (https://tidesandcurrents.noaa.gov/api/). This repository contains subfolders for both Python and Matlab versions of commonly used code.
+This repository contains commonly used code by CO-OPS data users (https://tidesandcurrents.noaa.gov), including retrieving data from the API (https://tidesandcurrents.noaa.gov/api/).
 
 For additional information, contact:
 Lindsay Abrams,
