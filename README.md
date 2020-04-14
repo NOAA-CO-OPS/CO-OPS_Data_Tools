@@ -1,6 +1,6 @@
 # README
 
-This repository contains the code for common processes used by CO-OPS data users. This repository contains subfolders for both Python and Matlab versions of commonly used code.
+This repository contains code for commonly used processes by CO-OPS data users, including retrieving data from the API. This repository contains subfolders for both Python and Matlab versions of commonly used code.
 
 For additional information, contact:
 Lindsay Abrams,
