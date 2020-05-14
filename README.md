@@ -11,7 +11,9 @@ lindsay.abrams@noaa.gov
 
 This repository is a scientific product and is not official communication of the National Oceanic and Atmospheric Administration, or the United States Department of Commerce. All NOAA GitHub project code is provided on an ?as is? basis and the user assumes responsibility for its use. Any claims against the Department of Commerce or Department of Commerce bureaus stemming from the use of this GitHub project will be governed by all applicable Federal law. Any reference to specific commercial products, processes, or services by service mark, trademark, manufacturer, or otherwise, does not constitute or imply their endorsement, recommendation or favoring by the Department of Commerce. The Department of Commerce seal and logo, or the seal and logo of a DOC bureau, shall not be used in any manner to imply endorsement of any commercial product or activity by DOC or the United States Government.
 
-##
+## CO-OPS API for Data Retrieval
+
+The CO-OPS API for data retrieval can be used to retrieve observations and predictions from CO-OPS stations. Station listings for various products can be viewed at https://tidesandcurrents.noaa.gov or viewed on a map at https://tidesandcurrents.noaa.gov/map/. Both MATLAB and Python versions of CO-OPS API data retrieval codes can be found in their respective folders here.
 
 ## License
 
