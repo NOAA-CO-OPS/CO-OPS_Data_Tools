@@ -13,7 +13,7 @@ This repository is a scientific product and is not official communication of the
 
 ## CO-OPS API for Data Retrieval
 
-The CO-OPS API for data retrieval can be used to retrieve observations and predictions from CO-OPS stations. Station listings for various products can be viewed at https://tidesandcurrents.noaa.gov or viewed on a map at https://tidesandcurrents.noaa.gov/map/. Both MATLAB and Python versions of CO-OPS API data retrieval codes can be found in their respective folders here.
+The CO-OPS API for data retrieval can be used to retrieve observations and predictions from CO-OPS stations. Station listings for various products can be viewed at https://tidesandcurrents.noaa.gov or viewed on a map at https://tidesandcurrents.noaa.gov/map/. For more information about CO-OPS data API please visit https://tidesandcurrents.noaa.gov/api/. Both MATLAB and Python versions of code to retrieve CO-OPS data via the API and convert the data to a usable format will be made available soon. 
 
 ## License
 
